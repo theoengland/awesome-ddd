@@ -157,6 +157,7 @@ The term was coined by Eric Evans in his book of the same title.
 ## Blogs
 
 - [Nick Chamberlain](https://buildplease.com) - Helpful development and design advice for .NET developers.
+- [Aardling Blog](https://aardling.eu/en/insights) Posts on DDD, strategic design, and modelling from Mathias Verraes and others.
 - [Ardalis.com](https://ardalis.com/blog) - Steve Smith. Pluralsight author and author of [DDD Fundamentals](https://www.pluralsight.com/courses/domain-driven-design-fundamentals) course and Microsoft [eShopOnWeb sample app](https://github.com/dotnet-architecture/eShopOnWeb).
 - [DDD Weekly](http://dddweekly.com) - Weekly curated links related to DDD/CQRS/ES.
 - [Daniel Whittaker](http://danielwhittaker.me) - Want to learn about CQRS and Event Sourcing? This blog is packed with step-by-step articles to give you a head start.
